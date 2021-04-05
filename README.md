@@ -1,19 +1,18 @@
 - 👋 Hi, I’m @Malvorium-284
+---
 - Yes.
--
 - 👀 I’m interested in ...
-
+---
 - Anime.
-- 
 - 🌱 I’m currently learning ...
-
+---
 - Anime language.
-- 
+---
 - 💞️ I’m looking to collaborate on ... 
-
 - Anime.
 - 
 - 📫 How to reach me ...
+---
 - You cannot.
 
 
